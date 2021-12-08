@@ -1,0 +1,90 @@
+body,html {
+    font-size: 18px;
+    height: 100%;
+    margin: 0;
+    text-align: center;
+}
+
+.font-barlow{
+    font-family: "Barlow", sans-serif;
+    font-weight: 600;
+}
+
+.font-fraunces{
+    font-family: "Fraunces", sans-serif;
+    font-weight: 700;
+}
+
+.font-fraunces-bold{
+    font-family: "Fraunces", sans-serif;
+    font-weight: 900;
+}
+
+.header{
+    background-image: url('/images/desktop/image-header.jpg');
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.navbar-text{
+    color: white;
+}
+
+.navbar-text-spacing{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.active-nav-item{
+    padding: 9px 15px;
+    background-color: white;
+    border: none;
+    border-radius: 25px;
+}
+
+.header-showcase{
+    font-size: 50px;
+    padding-top: 100px;
+    color: white;
+}
+
+.section-header{
+    font-size: 40px;
+    padding-top: 30%;
+    text-align: left;
+}
+
+.section-text{
+    text-align: left;
+    font-size: 20px;
+    padding-top: 5%;
+}
+
+.section-learn{
+    text-align: left;
+    font-size: 18px;
+    font-weight: bolder;
+    padding-top: 5%;
+}
+
+mark {
+    display: inline-block;
+    line-height: .2px;
+    padding-bottom: 0.5em;
+}
+
+.graphic-bg-photo{
+    background-image: url('/images/desktop/image-graphic-design.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.photography-bg-photo{
+    background-image: url('/images/desktop/image-photography.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
