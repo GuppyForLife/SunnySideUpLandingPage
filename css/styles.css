@@ -83,3 +83,27 @@ mark {
     color: hsl(168, 34%, 41%);
     background-color: hsl(169, 73%, 76%);
 }
+
+.gd-background-image{
+    background-image: url(/images/desktop/image-graphic-design.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.photo-background-image{
+    background-image: url(/images/desktop/image-photography.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.testimonial-position{
+    color: hsl(210, 4%, 67%);
+}
+
+.testimonial-text{
+    color: hsl(212, 27%, 19%)
+}
