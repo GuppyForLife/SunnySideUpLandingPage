@@ -51,7 +51,7 @@ body,html {
 
 .section-header{
     font-size: 40px;
-    padding-top: 30%;
+    padding-top: 40%;
     text-align: left;
 }
 
@@ -73,4 +73,12 @@ mark {
     display: inline-block;
     line-height: .2px;
     padding-bottom: 0.5em;
+}
+
+.graphic-card-text{
+    color: hsl(167, 40%, 24%);
+}
+
+.ph-card-text{
+    color: hsl(198, 62%, 26%);
 }
