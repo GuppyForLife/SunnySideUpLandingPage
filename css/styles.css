@@ -29,10 +29,6 @@ body,html {
 }
 
 .navbar-text{
-    color: white;
-}
-
-.navbar-text-spacing{
     padding-left: 25px;
     padding-right: 25px;
 }
